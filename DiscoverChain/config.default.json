@@ -1,0 +1,141 @@
+﻿{
+  "CrabEgg": [ "CrabBaby" ],
+  "CrabBaby": [ "Crab" ],
+  "Crab": [ "CrabEgg" ],
+
+  "CrabFreshWaterEgg": [ "CrabFreshWaterBaby" ],
+  "CrabFreshWaterBaby": [ "CrabFreshWater" ],
+  "CrabFreshWater": [ "CrabFreshWaterEgg" ],
+
+  "CrabWoodEgg": [ "CrabWoodBaby" ],
+  "CrabWoodBaby": [ "CrabWood" ],
+  "CrabWood": [ "CrabWoodEgg" ],
+
+  "DivergentBeetleEgg": [ "DivergentBeetleBaby" ],
+  "DivergentBeetleBaby": [ "DivergentBeetle" ],
+  "DivergentBeetle": [ "DivergentBeetleEgg" ],
+
+  "DivergentWormEgg": [ "DivergentWormBaby" ],
+  "DivergentWormBaby": [ "DivergentWorm" ],
+  "DivergentWorm": [ "DivergentWormEgg" ],
+
+  "DreckoEgg": [ "DreckoBaby" ],
+  "DreckoBaby": [ "Drecko" ],
+  "Drecko": [ "DreckoEgg" ],
+
+  "DreckoPlasticEgg": [ "DreckoPlasticBaby" ],
+  "DreckoPlasticBaby": [ "DreckoPlastic" ],
+  "DreckoPlastic": [ "DreckoPlasticEgg" ],
+
+  "HatchEgg": [ "HatchBaby" ],
+  "HatchBaby": [ "Hatch" ],
+  "Hatch": [ "HatchEgg" ],
+
+  "HatchHardEgg": [ "HatchHardBaby" ],
+  "HatchHardBaby": [ "HatchHard" ],
+  "HatchHard": [ "HatchHardEgg" ],
+
+  "HatchMetalEgg": [ "HatchMetalBaby" ],
+  "HatchMetalBaby": [ "HatchMetal" ],
+  "HatchMetal": [ "HatchMetalEgg" ],
+
+  "HatchVeggieEgg": [ "HatchVeggieBaby" ],
+  "HatchVeggieBaby": [ "HatchVeggie" ],
+  "HatchVeggie": [ "HatchVeggieEgg" ],
+
+  "LightBugBlackEgg": [ "LightBugBlackBaby" ],
+  "LightBugBlackBaby": [ "LightBugBlack" ],
+  "LightBugBlack": [ "LightBugBlackEgg" ],
+
+  "LightBugBlueEgg": [ "LightBugBlueBaby" ],
+  "LightBugBlueBaby": [ "LightBugBlue" ],
+  "LightBugBlue": [ "LightBugBlueEgg" ],
+
+  "LightBugEgg": [ "LightBugBaby" ],
+  "LightBugBaby": [ "LightBug" ],
+  "LightBug": [ "LightBugEgg" ],
+
+  "LightBugCrystalEgg": [ "LightBugCrystalBaby" ],
+  "LightBugCrystalBaby": [ "LightBugCrystal" ],
+  "LightBugCrystal": [ "LightBugCrystalEgg" ],
+
+  "LightBugOrangeEgg": [ "LightBugOrangeBaby" ],
+  "LightBugOrangeBaby": [ "LightBugOrange" ],
+  "LightBugOrange": [ "LightBugOrangeEgg" ],
+
+  "LightBugPinkEgg": [ "LightBugPinkBaby" ],
+  "LightBugPinkBaby": [ "LightBugPink" ],
+  "LightBugPink": [ "LightBugPinkEgg" ],
+
+  "LightBugPurpleEgg": [ "LightBugPurpleBaby" ],
+  "LightBugPurpleBaby": [ "LightBugPurple" ],
+  "LightBugPurple": [ "LightBugPurpleEgg" ],
+
+  "MoleEgg": [ "MoleBaby" ],
+  "MoleBaby": [ "Mole" ],
+  "Mole": [ "MoleEgg" ],
+
+  "MoleDelicacyEgg": [ "MoleDelicacyBaby" ],
+  "MoleDelicacyBaby": [ "MoleDelicacy" ],
+  "MoleDelicacy": [ "MoleDelicacyEgg" ],
+
+  "OilfloaterEgg": [ "OilfloaterBaby" ],
+  "OilfloaterBaby": [ "Oilfloater" ],
+  "Oilfloater": [ "OilfloaterEgg" ],
+
+  "OilfloaterDecorEgg": [ "OilfloaterDecorBaby" ],
+  "OilfloaterDecorBaby": [ "OilfloaterDecor" ],
+  "OilfloaterDecor": [ "OilfloaterDecorEgg" ],
+
+  "OilfloaterHighTempEgg": [ "OilfloaterHighTempBaby" ],
+  "OilfloaterHighTempBaby": [ "OilfloaterHighTemp" ],
+  "OilfloaterHighTemp": [ "OilfloaterHighTempEgg" ],
+
+  "PacuCleanerEgg": [ "PacuCleanerBaby" ],
+  "PacuCleanerBaby": [ "PacuCleaner" ],
+  "PacuCleaner": [ "PacuCleanerEgg" ],
+
+  "PacuEgg": [ "PacuBaby" ],
+  "PacuBaby": [ "Pacu" ],
+  "Pacu": [ "PacuEgg" ],
+
+  "PacuTropicalEgg": [ "PacuTropicalBaby" ],
+  "PacuTropicalBaby": [ "PacuTropical" ],
+  "PacuTropical": [ "PacuTropicalEgg" ],
+
+  "PuftAlphaEgg": [ "PuftAlphaBaby" ],
+  "PuftAlphaBaby": [ "PuftAlpha" ],
+  "PuftAlpha": [ "PuftAlphaEgg" ],
+
+  "PuftBleachstoneEgg": [ "PuftBleachstoneBaby" ],
+  "PuftBleachstoneBaby": [ "PuftBleachstone" ],
+  "PuftBleachstone": [ "PuftBleachstoneEgg" ],
+
+  "PuftEgg": [ "PuftBaby" ],
+  "PuftBaby": [ "Puft" ],
+  "Puft": [ "PuftEgg" ],
+
+  "PuftOxyliteEgg": [ "PuftOxyliteBaby" ],
+  "PuftOxyliteBaby": [ "PuftOxylite" ],
+  "PuftOxylite": [ "PuftOxyliteEgg" ],
+
+  "SquirrelEgg": [ "SquirrelBaby" ],
+  "SquirrelBaby": [ "Squirrel" ],
+  "Squirrel": [ "SquirrelEgg" ],
+
+  "SquirrelHugEgg": [ "SquirrelHugBaby" ],
+  "SquirrelHugBaby": [ "SquirrelHug" ],
+  "SquirrelHug": [ "SquirrelHugEgg" ],
+
+  "StaterpillarEgg": [ "StaterpillarBaby" ],
+  "StaterpillarBaby": [ "Staterpillar" ],
+  "Staterpillar": [ "StaterpillarEgg" ],
+
+  "StaterpillarGasEgg": [ "StaterpillarGasBaby" ],
+  "StaterpillarGasBaby": [ "StaterpillarGas" ],
+  "StaterpillarGas": [ "StaterpillarGasEgg" ],
+
+  "StaterpillarLiquidEgg": [ "StaterpillarLiquidBaby" ],
+  "StaterpillarLiquidBaby": [ "StaterpillarLiquid" ],
+  "StaterpillarLiquid": [ "StaterpillarLiquidEgg" ]
+}

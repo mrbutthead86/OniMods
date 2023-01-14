@@ -1,0 +1,3 @@
+﻿title: "Chained Resource Discovery" 
+description: "When a resource is discovered, other resources will automatically be discovered as configured in the mod directories config.json file. The default configuration will discover critters by eggs and vice versa, so you can plan you incubators and ranches, when you only have discovered an egg or a critter."
+staticID: "mrbutthead86.DiscoverChain" 
