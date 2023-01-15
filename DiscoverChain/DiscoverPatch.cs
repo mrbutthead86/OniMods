@@ -55,6 +55,8 @@ namespace DiscoverChain
         if (TryDetermineCategoryTag(tag, out Tag? categoryTag))
           DiscoveredResources.Instance.Discover(tag, categoryTag.Value);
       }
+      else
+        logger.Log($"{tag} is already discovered");
     }
 
     private static bool TryDetermineCategoryTag(Tag tag, out Tag? categoryTag)
